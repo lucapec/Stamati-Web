@@ -1,0 +1,26 @@
+*// Index
+Banner pasarlo a slider - pendiente por tiempo de diseño de imagenes
+Agregar mas clientes en sección confiaron en nosotros
+Trabajos recientes - definir px de imagenes, agregar links de cada obra
+
+*// Servicios
+Agregar formulario especifico para cada sección: post venta, riego ,etc
+Posiblemente algun banner o similar
+
+*// Obra1 - depende el nombre de cada obra
+Agregar carousel, slider o galeria de imagenes (no entrar en detalle de cada obra, no necesariamente una cantidad minima de img)
+
+*// Contacto
+Agregar formulario
+
+*// Clientes
+Opción de poner todos en gris osc.
+
+*// Obras realizadas
+Definir las mejores obras, mas llamativas y comenzar a agregar
+
+*// Preguntas frecuentes
+Definir preguntas, consultas, dudas .- postergar para poder lanzar la web .- #
+
+*// Links
+Agregar todos los accesos de la web para tener una guia completa
